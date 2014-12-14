@@ -1,0 +1,6 @@
+Text for description in video:PlayerStream/resume is not valid.
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 66; The end-tag for element type "code" must end with a '>' delimiter.
+
+Text for description in video:Player/media/get is not valid.
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 41; The end-tag for element type "code" must end with a '>' delimiter.
+
